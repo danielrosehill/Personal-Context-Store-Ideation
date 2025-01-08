@@ -14,6 +14,12 @@ I've looked at a few ways to develop data pipelines in order to allow users to d
 
 The objective in this, and all my experiments in finding ways to leverage personal contextual data is to achieve something that grows closer to delivering truly personalised experiences with LLMs.
 
+## Assistant For Context Development 
+
+This assistant provides randomized suggestions for vaults of personal context knowledge as well as individual files that should be populated within it, providing short descriptions for what those context data files should contain. 
+
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/677f0c3c50b30d5c4ee585f3)
+
 ## Author
 
 Daniel Rosehill  
