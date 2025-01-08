@@ -1,5 +1,7 @@
 # Prompt for random vault & file suggestions
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/677f0c3c50b30d5c4ee585f3)
+
 In order to improve the accuracy and personalization of the large language model and AI tools that I use, I am creating a library of personal contextual data stores. 
 
 Each context data store is contained within a vector database and I upload markdown files into it in order to provide it with data for embeddings. In this way, I am building a powerful store of personal data to provide to AI tools.
