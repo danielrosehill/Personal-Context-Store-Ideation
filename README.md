@@ -20,6 +20,22 @@ This assistant provides randomized suggestions for vaults of personal context kn
 
 [![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/677f0c3c50b30d5c4ee585f3)
 
+##  Starter Ideas For Personal Context Generation 
+
+I've gathered some outputs from the assistant in the `starters` folder.
+
+Those who share my enthusiasm about the huge potential of personal contextual data to generate better LLM outputs can begin their day by making a few cups of coffee, signing up for a good speech to text assistant, and working through the suggestions.  
+
+Create the recommended knowledge stores (or those which make sense for your particular AI/LLM needs), jot down or record the requisite files, upload them when finished, set the right embedding settings, and finally, connect them to the assistants or agents that make sense.
+
+While this process sounds tedious even as I write it out, doing this even a few times has already proven very useful. 
+
+
+## Send Ideas, Thoughts!
+
+I love getting emails from people who are also working on AI ideas, and especially trying to think about ways to better leverage personal context for the type of workflows rhat it can support so well
+
+
 ## Author
 
 Daniel Rosehill  
