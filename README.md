@@ -1,5 +1,7 @@
 # Personal Contextual Data Store Ideation (AI, Pick Me A Beer!)
 
+![alt text](screenshots/13.png)
+
 09-Jan-25
 
 Large language models can be rendered expotentially more powerful by the addition of small amounts of contextual data. 
